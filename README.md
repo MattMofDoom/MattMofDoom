@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hiya! I'm Matt and this is my Repository of Doom!
 
+I work on things that I think are both cool and useful, and that are often practical applications of requirements in my work.
+
+You can find more information and updates on my [Blog of Doom](https://MattMofDoom.com) 😁
 <!--
 **MattMofDoom/MattMofDoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
